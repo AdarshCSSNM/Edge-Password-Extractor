@@ -17,7 +17,7 @@ pip install pycryptodome pywin32
 
 3. Download the script:
 ```bash
-git clone https://github.com/yourusername/edge-password-extractor.git
+git clone https://github.com/AdarshCSSNM/Edge-Password-Extractor.git
 cd edge-password-extractor
 ```
 
